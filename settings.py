@@ -1,1 +1,1 @@
-tgToken = 
+tgToken = 1
