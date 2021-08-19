@@ -1,4 +1,7 @@
 import os
 import telebot
 
-bot = telebot.TeleBot('%ваш токен%');
+import settting
+
+
+bot = telebot.TeleBot(tgToken);
